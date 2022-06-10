@@ -71,8 +71,8 @@ const projects = {
     {
       id: "1",
       projectName: "Todo Application",
-      githubUrl: "https://github.com/srikanth-11/questionsoverflow-frontend",
-      demoUrl: "https://sri-questionsoverflow.netlify.app",
+      githubUrl: "https://github.com/CSaiKiran8/Todo-Frontend",
+      demoUrl: "https://todo-app-kiran.netlify.app/",
       primaryLang: "javascript",
       primaryLangColor: "yellow",
       description: "It allows you to ask any questions and get clarified by the fellow developers",
@@ -116,8 +116,8 @@ const projects = {
     {
       id: "2",
       projectName: "QuestionsOverflow Application",
-      githubUrl: "https://github.com/srikanth-11/uploader-frontend",
-      demoUrl: "https://sri-uploader.netlify.app",
+      githubUrl: "https://github.com/CSaiKiran8/questionsoverflow-frontend",
+      demoUrl: "https://questionsoverflow-kiran.netlify.app/",
       primaryLang: "javascript",
       primaryLangColor: "yellow",
       description: "It allows you to save your files and download them at any time",
@@ -161,8 +161,8 @@ const projects = {
     {
       id: "3",
       projectName: "Blog Application",
-      githubUrl: "https://github.com/srikanth-11/socialize-frontend",
-      demoUrl: "https://sri-socialize.netlify.app",
+      githubUrl: "https://github.com/CSaiKiran8/Blog-Frontend",
+      demoUrl: "https://blog-app-kiran.netlify.app/",
       primaryLang: "javascript",
       primaryLangColor: "yellow",
       description: "you can share your thoughts using this web app",
@@ -208,8 +208,8 @@ const projects = {
     {
       id: "4",
       projectName: "Chat Application",
-      githubUrl: "https://github.com/srikanth-11/tasksubmission-frontend",
-      demoUrl: "https://sri-tasksubmission.netlify.app",
+      githubUrl: "https://github.com/CSaiKiran8/Chat-App",
+      demoUrl: "https://chat-app-kiran.netlify.app/",
       primaryLang: "javascript",
       primaryLangColor: "yellow",
       description: "It allows you to submit the tasks",
