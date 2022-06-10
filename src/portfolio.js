@@ -75,7 +75,7 @@ const projects = {
       demoUrl: "https://todo-app-kiran.netlify.app/",
       primaryLang: "javascript",
       primaryLangColor: "yellow",
-      description: "It allows you to ask any questions and get clarified by the fellow developers",
+      description: "It allows you to keep track of your daily work or tasks",
       tech: [
         {
           skillName: "html-5",
@@ -120,7 +120,7 @@ const projects = {
       demoUrl: "https://questionsoverflow-kiran.netlify.app/",
       primaryLang: "javascript",
       primaryLangColor: "yellow",
-      description: "It allows you to save your files and download them at any time",
+      description: "It allows you to ask any questions and get clarified by the fellow developers",
       tech: [
         {
           skillName: "html-5",
@@ -165,7 +165,7 @@ const projects = {
       demoUrl: "https://blog-app-kiran.netlify.app/",
       primaryLang: "javascript",
       primaryLangColor: "yellow",
-      description: "you can share your thoughts using this web app",
+      description: "It allows you to post blogs with images",
       tech: [
         {
           skillName: "html-5",
@@ -212,7 +212,7 @@ const projects = {
       demoUrl: "https://chat-app-kiran.netlify.app/",
       primaryLang: "javascript",
       primaryLangColor: "yellow",
-      description: "It allows you to submit the tasks",
+      description: "Here you can connect and chat with your friend on room",
       tech: [
         {
           skillName: "html-5",
