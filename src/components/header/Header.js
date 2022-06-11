@@ -19,7 +19,7 @@ function Header() {
         </label>
         <ul className="menu">
         <li>
-            <a href="" target="_blank" rel="noreferrer">Know me</a>
+            <a href="https://kiran-terminal.netlify.app/" target="_blank" rel="noreferrer">Know me</a>
           </li>
           <li>
             <a href="#skills">Skills</a>
