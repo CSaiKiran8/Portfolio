@@ -21,8 +21,7 @@ export default function GithubRepoCard({projects}) {
         <div
           className="repo-card-div"
           key={projects.id}
-         
-          onClick={() => openRepoinNewTab(projects.githubUrl)}
+          // onClick={() => openRepoinNewTab(projects.githubUrl)}
         >
           
           <div className="repo-name-div">
@@ -43,6 +42,7 @@ export default function GithubRepoCard({projects}) {
             <p className="repo-name">{projects.projectName}</p>
           </div>
           <p className="repo-description">{projects.description}</p>
+          
           <p className="demolink">
             <a
               style={{ fontWeight: "bold" }}
@@ -50,20 +50,30 @@ export default function GithubRepoCard({projects}) {
             >
               Live Demo
             </a>
-            
-          
           </p>
-          <p  className="demolink">
+
+          <p className="demolink">
           <a
               style={{ fontWeight: "bold" }}
-              onClick={() => openRepoinNewTab(projects.githubUrl)}
+              onClick={() => openRepoinNewTab(projects.githubUrl1)} 
             >
-              Github repo
+              Frontend Code
             </a>
           </p>
+
+          <p className="demolink">
+          <a
+              style={{ fontWeight: "bold" }}
+              onClick={() => openRepoinNewTab(projects.githubUrl2)}
+            >
+              Backend Code
+            </a>
+          </p>
+          
+
           <div>
       <div className="software-skills-main-div">
-        <p id="center">Techstack</p>
+        <p id="center">Features</p>
         <ul className="dev-icons">
           
           {projects.tech.map(skills => {

@@ -13,7 +13,7 @@ function App() {
  return <>
  <Header></Header>
  <Greeting></Greeting>
- <Education></Education>
+ {/* <Education></Education> */}
  <Skills></Skills>
  <Project></Project>
  <Contact></Contact>

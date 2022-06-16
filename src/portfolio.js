@@ -17,15 +17,15 @@ const socialMediaLinks = {
 };
 
 const skillsSection = {
-  title: "What i do",
+  title: "WHAT I DO",
   subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
   skills: [
 
     emoji(
-      "⚡ Excited to be at the deployment phase of my new career as a full stack web developer. Certified in both F/E and B/E technologies."
+      "⚡ Excited to be at the deployment phase of my new career as a full stack web developer. Certified in both Frontend and Backend technologies."
     ),
     emoji(
-      "⚡ Want to develop highly interactive Front end / Back end for your applications"
+      "⚡ Want to develop highly interactive Front end / Back end for your applications."
     ),
   ],
 
@@ -70,12 +70,13 @@ const projects = {
   myproject: [
     {
       id: "1",
-      projectName: "Todo Application",
-      githubUrl: "https://github.com/CSaiKiran8/Todo-Frontend",
-      demoUrl: "https://todo-app-kiran.netlify.app/",
+      projectName: "Blog Application",
+      githubUrl1: "https://github.com/CSaiKiran8/Blog-Frontend",
+      githubUrl2: "https://github.com/CSaiKiran8/Blog-Backend",
+      demoUrl: "https://blog-app-kiran.netlify.app/",
       primaryLang: "javascript",
       primaryLangColor: "yellow",
-      description: "It allows you to keep track of your daily work or tasks",
+      description: "This App enables you to Post blogs with images to your friends",
       tech: [
         {
           skillName: "html-5",
@@ -101,10 +102,10 @@ const projects = {
           skillName: "nodejs",
           fontAwesomeClassname: "fab fa-node",
         },
-        {
-          skillName: "npm",
-          fontAwesomeClassname: "fab fa-npm",
-        },
+        // {
+        //   skillName: "npm",
+        //   fontAwesomeClassname: "fab fa-npm",
+        // },
         {
           skillName: "mongodb",
           fontAwesomeClassname: "fas fa-database",
@@ -116,7 +117,8 @@ const projects = {
     {
       id: "2",
       projectName: "QuestionsOverflow Application",
-      githubUrl: "https://github.com/CSaiKiran8/questionsoverflow-frontend",
+      githubUrl1: "https://github.com/CSaiKiran8/questionsoverflow-frontend",
+      githubUrl2: "https://github.com/CSaiKiran8/questionsoverflow-backend",
       demoUrl: "https://questionsoverflow-kiran.netlify.app/",
       primaryLang: "javascript",
       primaryLangColor: "yellow",
@@ -146,10 +148,10 @@ const projects = {
           skillName: "nodejs",
           fontAwesomeClassname: "fab fa-node",
         },
-        {
-          skillName: "npm",
-          fontAwesomeClassname: "fab fa-npm",
-        },
+        // {
+        //   skillName: "npm",
+        //   fontAwesomeClassname: "fab fa-npm",
+        // },
         {
           skillName: "mongodb",
           fontAwesomeClassname: "fas fa-database",
@@ -160,12 +162,13 @@ const projects = {
     },
     {
       id: "3",
-      projectName: "Blog Application",
-      githubUrl: "https://github.com/CSaiKiran8/Blog-Frontend",
-      demoUrl: "https://blog-app-kiran.netlify.app/",
+      projectName: "Todo Application",
+      githubUrl1: "https://github.com/CSaiKiran8/Todo-Frontend",
+      githubUrl2: "https://github.com/CSaiKiran8/Todo-Backend",
+      demoUrl: "https://todo-app-kiran.netlify.app/",
       primaryLang: "javascript",
       primaryLangColor: "yellow",
-      description: "It allows you to post blogs with images",
+      description: "This app enables you to keep track of your daily todos",
       tech: [
         {
           skillName: "html-5",
@@ -191,10 +194,10 @@ const projects = {
           skillName: "nodejs",
           fontAwesomeClassname: "fab fa-node",
         },
-        {
-          skillName: "npm",
-          fontAwesomeClassname: "fab fa-npm",
-        },
+        // {
+        //   skillName: "npm",
+        //   fontAwesomeClassname: "fab fa-npm",
+        // },
         {
           skillName: "mongodb",
           fontAwesomeClassname: "fas fa-database",
@@ -208,11 +211,12 @@ const projects = {
     {
       id: "4",
       projectName: "Chat Application",
-      githubUrl: "https://github.com/CSaiKiran8/Chat-App",
+      githubUrl1: "https://github.com/CSaiKiran8/Chat-App",
+      githubUrl2: "https://github.com/CSaiKiran8/Chat-App",
       demoUrl: "https://chat-app-kiran.netlify.app/",
       primaryLang: "javascript",
       primaryLangColor: "yellow",
-      description: "Here you can connect and chat with your friend on room",
+      description: "This App enables you to connect and chat with your friend on room",
       tech: [
         {
           skillName: "html-5",
@@ -238,10 +242,10 @@ const projects = {
           skillName: "nodejs",
           fontAwesomeClassname: "fab fa-node",
         },
-        {
-          skillName: "npm",
-          fontAwesomeClassname: "fab fa-npm",
-        },
+        // {
+        //   skillName: "npm",
+        //   fontAwesomeClassname: "fab fa-npm",
+        // },
         {
           skillName: "mongodb",
           fontAwesomeClassname: "fas fa-database",

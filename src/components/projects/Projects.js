@@ -9,9 +9,11 @@ import GithubRepoCard from "../../components/githubRepoCard/GithubRepoCard"
 export default function Projects() {
  
   return (
-    
+
       <div className="main" id="projects">
+        
         <h1 className="project-title"> Projects</h1>
+        <p>// User credentials for all apps - (username: test@gmail.com, username: test, password: test@123)</p>
         <div className="repo-cards-div-main">
           {projects.myproject.map((project, i) => {
             return <GithubRepoCard  projects={project}/>;

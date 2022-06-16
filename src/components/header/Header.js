@@ -24,11 +24,11 @@ function Header() {
           <li>
             <a href="#skills">Skills</a>
           </li>
-          { (
+          {/* { (
             <li>
               <a href="#Education">Education</a>
             </li>
-          )}
+          )} */}
           <li>
             <a href="#projects">Projects</a>
           </li>

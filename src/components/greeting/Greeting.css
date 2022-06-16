@@ -35,6 +35,11 @@
   line-height: 1.1;
   
 }
+
+.heading {
+  font-size: 5px;
+}
+
 #type {
   color:rgb(69, 90, 136);
   font-size: 60px;
