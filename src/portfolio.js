@@ -7,7 +7,7 @@ const greeting = {
     "A passionate Software Developer 🚀 looking for oppurtunities to build Web applications with JavaScript / Reactjs / Nodejs and some other cool libraries and frameworks."
   ),
   resumeLink:
-    "https://kiran-resume.netlify.app/",
+    "https://drive.google.com/file/d/1LMa4SKz_fLvTa2H1v93r0yFesPIIPK0J/view?usp=sharing",
 };
 
 const socialMediaLinks = {
@@ -162,13 +162,13 @@ const projects = {
     },
     {
       id: "3",
-      projectName: "Todo Application",
-      githubUrl1: "https://github.com/CSaiKiran8/Todo-Frontend",
-      githubUrl2: "https://github.com/CSaiKiran8/Todo-Backend",
-      demoUrl: "https://todo-app-kiran.netlify.app/",
+      projectName: "Uploader Application",
+      githubUrl1: "https://github.com/CSaiKiran8/Uploader-Frontend",
+      githubUrl2: "https://github.com/CSaiKiran8/Uploader-Backend",
+      demoUrl: "https://sri-uploader.netlify.app/",
       primaryLang: "javascript",
       primaryLangColor: "yellow",
-      description: "This app enables you to keep track of your daily todos",
+      description: "This App allows you to save your files and download them at any time",
       tech: [
         {
           skillName: "html-5",

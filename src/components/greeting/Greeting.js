@@ -21,7 +21,7 @@ export default function Greeting() {
                 <span>HI I'M</span>
                 <Typewriter 
     options={{
-    strings: ['Saikiran Chatlapalli', 'A Tech Enthusiast', 'An Aspiring Fullstack Developer'],
+    strings: ['Saikiran Chatlapalli', 'A Tech Enthusiast', 'An Aspiring Full Stack Developer'],
     autoStart: true,
     loop: true,
   }}
