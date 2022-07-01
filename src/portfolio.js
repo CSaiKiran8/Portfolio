@@ -7,7 +7,7 @@ const greeting = {
     "A passionate Software Developer 🚀 looking for oppurtunities to build Web applications with JavaScript / Reactjs / Nodejs and some other cool libraries and frameworks."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1LMa4SKz_fLvTa2H1v93r0yFesPIIPK0J/view?usp=sharing",
+    "https://drive.google.com/file/d/1Nh9VXwdyISMAcH8p9aJWjdqlR_7XtALy/view",
 };
 
 const socialMediaLinks = {
@@ -119,7 +119,7 @@ const projects = {
       projectName: "QuestionsOverflow Application",
       githubUrl1: "https://github.com/CSaiKiran8/questionsoverflow-frontend",
       githubUrl2: "https://github.com/CSaiKiran8/questionsoverflow-backend",
-      demoUrl: "https://questionsoverflow-kiran.netlify.app/",
+      demoUrl: "https://sri-questionsoverflow.netlify.app/",
       primaryLang: "javascript",
       primaryLangColor: "yellow",
       description: "It allows you to ask any questions and get clarified by the fellow developers",
